@@ -1,4 +1,5 @@
-# Bootcamp-Data-Science-Aplicada
+# Bootcamp-Data-Science-Aplicada 🤿
+Vamos mergular...
 
 # ALURA - IMERSÃO DADOS_
  Desafios da ImersaoDados_
@@ -13,6 +14,9 @@
 ## 🎮 Projetos
 **Projetos** - Acesse os projetos [Link](https://github.com/lucasllimati/Bootcamp-Data-Science-Aplicada).
 
+## 🖊 Plataforma
+Esses projetos foram desenvolvidos na plataforma Google Colab. [Link](https://colab.research.google.com/?utm_source=scs-index)
+
 ## 🖊 Anotações - Notion
 
 Essas anotações Notion sobre a teoria do curso [Link](https://www.notion.so/Alura-Imers-o-Dados_-03dee3d8a0834357b09b693b433e1aab).
@@ -22,11 +26,10 @@ Essas anotações Notion sobre a teoria do curso [Link](https://www.notion.so/Al
 Esse projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 - Python
-- Várias bibliotecas como pandas, matplotlib.pyplot, numpy.
-
-## 🖊 Plataforma
-
-Esses projetos foram desenvolvidos na plataforma Google Colab.
+- Várias bibliotecas como [Pandas](https://pandas.pydata.org/pandas-docs/stable/index.html), [Matplotlib](https://matplotlib.org), [Numpy](https://numpy.org).
+## :scroll: Módulos
+### :money_with_wings: Módulo 1
+Nesse módulo vamos trabalhar com os dados do [TABNET](http://tabnet.datasus.gov.br). Um sistema do Governo Federal que disponibiliza dados do SUS.
 
 ## 📝 Licença
 
